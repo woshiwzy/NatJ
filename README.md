@@ -9,8 +9,8 @@ Java se
 
 #### 安装教程
 
-1.  客户端入口方法: com.nat.client.NatClientStarter
-2.  服务端入口方法: com.nat.server.NatServerStarter
+1.  客户端入口类: com.nat.client.NatClientStarter
+2.  服务端入口类: com.nat.server.NatServerStarter
 
 #### 使用说明
 
